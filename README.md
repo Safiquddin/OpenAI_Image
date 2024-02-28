@@ -7,3 +7,5 @@ dotnet add package OpenAI -v 1.7.2
 cd khan
 dotnet run
 ```
+#for python env
+pip install requests
