@@ -5,3 +5,4 @@ Create a image from Text using OpenAI api
 dotnet new console -n khan
 dotnet add package OpenAI -v 1.7.2
 cd khan
+dotnet run
