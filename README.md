@@ -8,4 +8,6 @@ cd khan
 dotnet run
 ```
 #for python env
+```
 pip install requests
+```
